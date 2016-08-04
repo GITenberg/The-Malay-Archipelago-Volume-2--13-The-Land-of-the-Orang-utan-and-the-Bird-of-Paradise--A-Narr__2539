@@ -1,0 +1,30 @@
+_repo: The-Malay-Archipelago-Volume-2--13-The-Land-of-the-Orang-utan-and-the-Bird-of-Paradise--A-Narr__2539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    alias: Wallace, A. R. (Alfred Russel)
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: ''
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malay Archipelago -- Description and travel'
+- !lcsh 'Wallace, Alfred Russel, 1823-1913 -- Travel -- Malay Archipelago'
+- !lcsh 'Natural history -- Malay Archipelago'
+- !lcc 'DS'
+- !lcsh 'Ethnology -- Malay Archipelago'
+- GITenberg
+title: "The Malay Archipelago, Volume 2\r\nThe Land of the Orang-utan and the Bird\
+  \ of Paradise; A Narrative of Travel, with Studies of Man and Nature"
+url: http://www.gutenberg.org/ebooks/2539
